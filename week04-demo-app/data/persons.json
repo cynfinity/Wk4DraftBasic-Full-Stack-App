@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Cynthia Roldan",
+    "id": 1,
+    "phone": "555-908-0999",
+    "email": "@blue",
+    "birthday": "05/01/2020"
+  },
+  {
+    "name": "Dante Casanova",
+    "id": 2,
+    "phone": "888-706-0997",
+    "email": "@brown",
+    "birthday": "03/01/2020"
+  },
+  {
+    "name": "Candy Calito",
+    "id": 3,
+    "phone": "415-908-4545",
+    "email": "@green",
+    "birthday": "02/01/2020"
+  },
+  {
+    "name": "Barrie Bland",
+    "id": 4,
+    "phone": "707-918-0328",
+    "email": "yellow",
+    "birthday": "01/01/2020"
+  }
+]
